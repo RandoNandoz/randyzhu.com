@@ -4,7 +4,7 @@ layout: single
 permalink: /project/profsearch
 collection: projects
 header:
-    teaser: /assets/books.png
+    teaser: /assets/books.avif
 ---
 
 This tool allows UBC students to look up courses that faculty have historically taught to give

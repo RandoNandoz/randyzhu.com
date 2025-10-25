@@ -34,7 +34,7 @@ plugins:
 repository: RandoNandoz/randyzhu.com
 author:
   name: "Randy Zhu"
-  avatar: "/assets/birdpicture.png"
+  avatar: "/assets/birdpicture.avif"
   bio: "Computer Science Student at UBC"
   location: Vancouver, BC
   links:

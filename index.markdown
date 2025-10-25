@@ -4,7 +4,7 @@
 
 layout: single 
 header:
-    image: "/assets/glacier-vistas-fullsize.jpeg"
+    image: "/assets/glacier-vistas-fullsize.avif"
     
 author_profile: true
 ---

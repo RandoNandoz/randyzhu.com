@@ -4,7 +4,7 @@ layout: single
 permalink: /project/collidyroad
 collection: projects
 header:
-    teaser: /assets/collidyroad.png
+    teaser: /assets/collidyroad.avif
 ---
 
 Collidy Road is a top 10% finisher in the 2023 Game Makers Toolkit game jam. Beware, the game is

@@ -5,7 +5,7 @@ excerpt: ExploTest is a dynamic unit test generated aimed to create high quality
 permalink: /project/explotest
 collection: projects
 header:
-    teaser: /assets/Testing_Pyramid.png
+    teaser: /assets/Testing_Pyramid.avif
 ---
 
 ExploTest is a dynamic unit test generated aimed to create high quality unit tests from easy to conduct, but expensive integration tests.

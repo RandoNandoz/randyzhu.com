@@ -4,7 +4,7 @@
 
 layout: home 
 header:
-    image: "/assets/glacier-vistas-fullsize.jpeg"
+    image: "/assets/glacier-vistas-fullsize.avif"
 permalink: /blog
 author_profile: true
 classes: wide
