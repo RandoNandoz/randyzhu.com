@@ -97,7 +97,6 @@ collections:
 social:
   type: Person
   links:
-    - "https://twitter.com/yourTwitter"
-    - "https://www.facebook.com/yourFacebook"
-    - "https://instagram.com/yourProfile"
-    - "https://www.linkedin.com/in/yourprofile"
+    - "https://instagram.com/randyyyyzhu"
+    - "https://www.linkedin.com/in/rzhu08"
+    - "https://github.com/RandoNandoz"
