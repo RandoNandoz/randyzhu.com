@@ -1,7 +1,7 @@
 ---
 title: ExploTest
 layout: single
-# excerpt: "ExploTest is a dynamic unit test generated aimed to create high quality unit tests from easy to conduct, but expensive integration tests.
+excerpt: ExploTest is a dynamic unit test generated aimed to create high quality unit tests from easy to conduct, but expensive integration tests.
 permalink: /project/explotest
 collection: projects
 header:

@@ -5,8 +5,9 @@
 layout: home 
 header:
     image: "/assets/glacier-vistas-fullsize.jpeg"
-    
+permalink: /blog
 author_profile: true
+classes: wide
 ---
 
 Here's where I mostly post about random tech stuff that has no existing documentation,
