@@ -13,7 +13,7 @@ author_profile: true
 
 Hello, I am Randy Zhu, a student at [The University of British Columbia, Vancouver Campus (UBC)](https://ubc.ca). I am doing a few things at once (as one would) right now:
 
-### I am working on [ExploTest](https://github.com/kliu04/explotest), along with [Kevin Liu](https://github.com/kliu04), under the supervision of [Dr. Caroline Lemieux](https://www.carolemieux.com/) at the [Software Practices Lab](https://spl.cs.ubc.ca/)
+### I am working on [ExploTest](/project/explotest), along with [Kevin Liu](https://github.com/kliu04), under the supervision of [Dr. Caroline Lemieux](https://www.carolemieux.com/) at the [Software Practices Lab](https://spl.cs.ubc.ca/)
 
 ExploTest is an automatic unit test generator that generates unit tests from end-to-end tests. It uses dynamic analysis techniques to extract out function arguments, and performs either serialization, or a (somewhat novel) code-level serialization argument reconstruction technique. I am currently working on an evaluation of its usability on real software repositories, and categorizing difficulties/challenges with test carving in Python for my honours thesis.
 
