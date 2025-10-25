@@ -21,10 +21,9 @@ Previously, I held a Natural Sciences and Engineering Research Council of Canada
   
 ### Looking a 4-5 month internship/co-op for the summer of 2026!
 
-Previous, I have worked at Teck Resources, soon to be Anglo Teck group, working on various dashboards, Power Platform apps and automations to accelerate the work of business and engineering teams. You can find a copy of my resume here: [main.pdf](/resume/main.pdf)
+From September 2024 to April 2025, I worked as a co-op at Teck Resources, soon to be Anglo Teck group, working on various dashboards, Power Platform apps and automations to accelerate the work of business and engineering teams. You can find a copy of my resume here: [main.pdf](/resume/main.pdf)
 
 ### Teaching students in an [introductory computer systems course](https://www.cs.ubc.ca/course-section/cpsc-213-102-2023w)
-
 
 I am a teaching assistant at UBC, teaching students the basic building blocks[^1] of software[^2]. The course covers some microarchitecture, function calling conventions, and multithreading.
 
