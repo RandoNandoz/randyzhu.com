@@ -8,3 +8,6 @@ header:
     
 author_profile: true
 ---
+
+Here's where I mostly post about random tech stuff that has no existing documentation,
+things I find interesting, or personal finance.

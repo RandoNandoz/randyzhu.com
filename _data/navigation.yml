@@ -1,3 +1,6 @@
 main:
-   - title: "Blog"
-     url: "/blog"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Resume"
+    url: "/resume/main.pdf"
+    target: _blank
