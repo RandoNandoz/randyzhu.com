@@ -23,6 +23,6 @@ Previously, I held a Natural Sciences and Engineering Research Council of Canada
 
 From September 2024 to April 2025, I worked as a co-op at Teck Resources, soon to be Anglo Teck group, working on various dashboards, Power Platform apps and automations to accelerate the work of business and engineering teams. You can find [a copy of my resume here](/resume/main.pdf) and my [unofficial UBC transcript (with PII redacted) here](/assets/transcript-redacted.pdf).
 
-### Teaching students in an [introductory computer systems course](https://www.cs.ubc.ca/course-section/cpsc-213-102-2023w)
+### Teaching students in an [introductory computer systems course](/cpsc213)
 
 I am a teaching assistant at UBC, teaching students the basic building blocks of software. The course covers some microarchitecture, function calling conventions, and multithreading.
