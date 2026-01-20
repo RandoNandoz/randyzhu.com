@@ -11,7 +11,7 @@ author_profile: true
 
 ## Greetings!
 
-Hello, I am Randy Zhu, a student at [The University of British Columbia, Vancouver Campus (UBC)](https://ubc.ca). I am doing a few things at once (as one would) right now:
+Hello, I am Randy Zhu, a student at [The University of British Columbia, Vancouver Campus (UBC)](https://ubc.ca). I am doing a few things at once right now:
 
 ### I am working on [ExploTest](/project/explotest), along with [Kevin Liu](https://github.com/kliu04), under the supervision of [Dr. Caroline Lemieux](https://www.carolemieux.com/) at the [Software Practices Lab](https://spl.cs.ubc.ca/)
 
@@ -25,8 +25,4 @@ From September 2024 to April 2025, I worked as a co-op at Teck Resources, soon t
 
 ### Teaching students in an [introductory computer systems course](https://www.cs.ubc.ca/course-section/cpsc-213-102-2023w)
 
-I am a teaching assistant at UBC, teaching students the basic building blocks[^1] of software[^2]. The course covers some microarchitecture, function calling conventions, and multithreading.
-
-[^1]: you could go down to the transistor level, of course, but I am no physicist
-[^2]: not computation, see [https://en.wikipedia.org/wiki/Theory_of_computation](https://en.wikipedia.org/wiki/Theory_of_computation)
-
+I am a teaching assistant at UBC, teaching students the basic building blocks of software. The course covers some microarchitecture, function calling conventions, and multithreading.
