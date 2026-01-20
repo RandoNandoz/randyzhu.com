@@ -6,3 +6,5 @@ main:
   - title: "Resume"
     url: "/resume/main.pdf"
     target: _blank
+  - title: "CPSC 213 L2 Slides"
+    url: "/cpsc213/L2.pdf"
