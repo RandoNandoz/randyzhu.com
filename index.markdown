@@ -21,7 +21,7 @@ Previously, I held a Natural Sciences and Engineering Research Council of Canada
   
 ### Looking a 4-5 month internship/co-op for the summer of 2026!
 
-From September 2024 to April 2025, I worked as a co-op at Teck Resources, soon to be Anglo Teck group, working on various dashboards, Power Platform apps and automations to accelerate the work of business and engineering teams. You can find [a copy of my resume here](/resume/main.pdf) and my [unofficial UBC transcript (with PII redacted) here](/assets/transcript-redacted.pdf).
+From September 2024 to April 2025, I worked as a co-op at Teck Resources, soon to be Anglo Teck group, working on various dashboards, Power Platform apps and automations to accelerate the work of business and engineering teams. You can find [a copy of my resume here](/resume/main.pdf).
 
 ### Teaching students in an [introductory computer systems course](/cpsc213)
 
