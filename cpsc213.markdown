@@ -14,3 +14,4 @@ The slides are made in Apple Keynote, so there is an editable `.key` if you have
 
 - Lab 1 --- Intro Lab: [.pdf](./cpsc213/L1.pdf){:target="_blank"}, [.key](./cpsc213/L1.key){:target="_blank"}
 - Lab 2 --- CPU and Static Variables [.pdf](./cpsc213/L2.pdf){:target="_blank"}, [.key](./cpsc213/L2.key){:target="_blank"}
+- Lab 3 --- Dynamic vs Static Arrays [.pdf](./cpsc213/L3.pdf){:target="_blank"}, [.key](./cpsc213/L3.key){:target="_blank"}
