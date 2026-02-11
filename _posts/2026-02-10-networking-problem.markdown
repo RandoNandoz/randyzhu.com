@@ -1,3 +1,15 @@
+---
+layout: single
+title: "A response to a job application; how IPv4 exhaustion ruined my childhood"
+date: 2026-02-10 00:00:00 -0800
+---
+
+**This was in response to an job application with the prompt:**
+
+*Can you describe a networking problem that you encountered that prevented an application from working as expected? What steps did you take to resolve the issue?:*
+
+---
+
 I have been fighting this specific networking problem since I was 10 years old. I am not kidding. I can tell you a whole chronology, below:
 
 CG-NAT is a technique to solve the IPv4 exhaustion problem that many ISPs perform for mostly residential clients, or clients that don't serve anything on their IP. 
@@ -39,3 +51,11 @@ I could host a globally distributed network of Minecraft servers, and play with 
 One other thing I hope is that you read to the end of this, and read the whole thing.
 
 I also enjoyed answering this question and going down memory lane and letting me reflect. It's a bittersweet end to the story. I'm going to post this on my website at randyzhu.com because I thought it was a good answer. -->
+
+<!-- I could host a globally distributed network of Minecraft servers, and play with all my friends, all on top end hardware for maximal TPS. But I can't. School and applying for jobs (like this one) have taken up most of my leisure time. There's something ironic and kind of sad about that.
+
+I hope you hire me, because I do understand networking quite well. I think I can really bring something to the team. I hope to get some more time away from job applications and school to play Minecraft with my friends.
+
+One other thing I hope is that you read to the end of this, and read the whole thing.
+
+I also enjoyed answering this question and going down memory lane. It's bittersweet. I'm going to post this on my website at randyzhu.com. -->
