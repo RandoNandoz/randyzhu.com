@@ -11,20 +11,11 @@ author_profile: true
 
 ## Greetings!
 
-Hello, I am Randy Zhu, a student at [The University of British Columbia, Vancouver Campus (UBC)](https://ubc.ca). 
+Hello, I am Randy Zhu, a Computer Science student at [The University of British Columbia, Vancouver Campus (UBC)](https://ubc.ca). 
 
-<!-- I am doing a few things at once right now:
+I'm doing a few things right now:
 
-### I am working on [ExploTest](/project/explotest), along with [Kevin Liu](https://github.com/kliu04), under the supervision of [Dr. Caroline Lemieux](https://www.carolemieux.com/) at the [Software Practices Lab](https://spl.cs.ubc.ca/)
+I am wrapping up my undergrad thesis on [ExploTest](/project/explotest), a Python unit test carving tool that generates unit tests from integration test runs. I am working with [Kevin Liu](https://wevie.dev/), and my supervisor, [Dr. Caroline Lemieux](https://www.carolemieux.com/).
+The projected started off was partially funded by an award given to me and Kevin from the Natural Sciences and Engineering Research Council of Canada for summer 2025.
 
-ExploTest is an automatic unit test generator that generates unit tests from end-to-end tests. It uses dynamic analysis techniques to extract out function arguments, and performs either serialization, or a (somewhat novel) code-level serialization argument reconstruction technique. I am currently working on an evaluation of its usability on real software repositories, and categorizing difficulties/challenges with test carving in Python for my honours thesis.
-
-Previously, I held a Natural Sciences and Engineering Research Council of Canada Undergraduate Student Research Award to work on ExploTest for the summer of 2025.
-  
-### Looking a 4-5 month internship/co-op for the summer of 2026!
-
-From September 2024 to April 2025, I worked as a co-op at Teck Resources, soon to be Anglo Teck group, working on various dashboards, Power Platform apps and automations to accelerate the work of business and engineering teams. You can find [a copy of my resume here](/resume/Randy_Zhu_resume.pdf).
-
-### Teaching students in an [introductory computer systems course](/cpsc213)
-
-I am a teaching assistant at UBC, teaching students the basic building blocks of software. The course covers some microarchitecture, function calling conventions, and multithreading. -->
+Before that, I worked at Teck Resources, working on a mix of front-end work (think React.js + TypeScript) and ETL work to unify and understand data across various mine sites at the company.
