@@ -13,7 +13,8 @@ author_profile: true
 
 Hello, I am Randy Zhu, a Computer Science student at [The University of British Columbia](https://ubc.ca).
 
-I am interested in systems software and developer tooling, particularly: compilers, hacking device drivers, debuggers, and static analysis. It's 
+I am interested in systems software and developer tooling, particularly: compilers, hacking device drivers, debuggers, and static analysis. Another interest I would like to develop/scope out is how we can use technology to preserve and safeguard people's privacy, and how technology
+can be used to counteract censorship and mass surveillance (tools like v2ray, research like differential privacy).
 
 Currently, I am wrapping up my undergrad thesis on [ExploTest](/project/explotest), a Python unit test carving tool that generates unit tests from integration test runs. I am working with [Kevin Liu](https://wevie.dev/), and my supervisor, [Dr. Caroline Lemieux](https://www.carolemieux.com/).
 The projected started off was partially funded by an award given to me and Kevin from the Natural Sciences and Engineering Research Council of Canada for summer 2025.
