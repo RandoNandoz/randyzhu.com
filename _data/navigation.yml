@@ -4,7 +4,7 @@ main:
   - title: "Projects"
     url: "/projects"
   - title: "Resume"
-    url: "/resume/Randy_Zhu_resume.pdf"
+    url: "/assets/Randy_Zhu_resume.pdf"
     target: _blank
   - title: "CPSC 213"
     url: "/cpsc213"
