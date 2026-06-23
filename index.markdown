@@ -25,4 +25,4 @@ Introduction to Software Engineering (CPSC 210). I was also awarded the Undergra
 
 My [undergraduate thesis](/assets/thesis.pdf) was about unit test generation, specifically a unit test generation tool called [ExploTest](/project/explotest). I had the privilege to be supervised with Dr. Caroline Lemieux, and worked with Kevin Liu and many others in the UBC Software Practices Lab to complete.
 
-I complete my degree in April 2028, and I'm looking for internships for summer 2027 after Netgear, hopefully in the systems/devtool space. If you are looking to hire me, you can find [my resume](/assets/Randy_Zhu_resume.pdf) and [my transcript](/assets/transcript_anon.pdf).
+I complete my degree in April 2028, and I'm looking for internships after Netgear, hopefully in the systems/devtool space. If you are looking to hire me, you can find [my resume](/assets/Randy_Zhu_resume.pdf) and [my transcript](/assets/transcript_anon.pdf).
