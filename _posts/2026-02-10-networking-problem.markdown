@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "A response to a job application; how IPv4 exhaustion ruined my childhood"
+title: "How IPv4 exhaustion ruined my childhood; A response to a job application"
 date: 2026-02-10 00:00:00 -0800
 ---
 

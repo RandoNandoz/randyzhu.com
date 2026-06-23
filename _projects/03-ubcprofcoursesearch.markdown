@@ -1,7 +1,7 @@
 ---
 title: UBC Professor Search Tool
 layout: single
-permalink: /project/profsearch
+permalink: /projects/profsearch
 collection: projects
 header:
     teaser: /assets/books.avif

@@ -1,7 +1,7 @@
 ---
 title: Collidy Road
 layout: single
-permalink: /project/collidyroad
+permalink: /projects/collidyroad
 collection: projects
 header:
     teaser: /assets/collidyroad.avif

@@ -1,0 +1,99 @@
+<!-- ---
+layout: single
+title: "Slaying the Typed Racket Dragon"
+date: 2026-04-12 12:01:32 -0800
+---
+
+This spring, I took introduction to compilers ([CPSC 411](students.cs.ubc.ca/~cs-411/2025w2/)) at UBC. The course project, which I was working on
+with two of my friends, [Milo](https://tolbooth.xyz/) and [Anahita](https://golshani.ca/), was to gradually implement a compiler for a subset of Racket, in *any programming language we wanted*.
+
+Now, the "any programming language we wanted" came with a caveat: all the course support and grading
+infrastructure was implemented in, and designed for students implementing their compilers in Racket, so it
+would take a lot of work to writing your compiler in a language based on Racket. Nobody had gotten to the last milestone (there are ten of them) with something other than vanilla, standard, untyped Racket.
+
+So of course, we chose Typed Racket, a gradually typed, sister language to Racket.
+
+The language and IRs all had S-expression grammars, looking something like this:
+
+```scheme
+;; source IR
+'(module
+    (begin
+        (let ([x 3] [y 4])
+            (if (>= x 67)
+                x
+                y))))
+```
+
+```scheme
+;; target IR
+'(module
+    (begin
+        (set! x 3)
+        (set! y 4)
+        (if (>= x 67)
+            x)
+            y))
+```
+
+<small>(this is the monadic form to imperative A-normal form transformation)</small>
+
+Typed Racket doesn't have support for granularly typing these expressions,
+namely, these expressions are just lists of symbols and numbers, and the most fine-grained type you could think of for this in Typed Racket is something like `(Listof (U Symbol Number))`. We wanted to encode more invariants from the grammar, like for example, `if`'s must have a `predicate` in its first argument. The only way we could accomplish this was Typed Racket structs. As an example, let's look at the EBNF grammar for
+return points (return points encode the return location that functions return to)
+
+```ebnf
+tail ::=  (jump trg loc ...)
+        | (begin effect ... tail)
+ 	 	| (if pred tail tail)
+
+effect ::= ...
+           | (return-point label tail)
+
+label ::= an x86 label
+```
+
+To encode this into our struct based type structure, we would have to do something like this:
+
+```scheme
+(define-type Tail
+             (U JumpTail
+                (BeginTail Effect Tail)
+                (IfTail Pred Tail)))
+
+
+(struct (T) ReturnPoint ([label : Label]
+                         [tail : T])
+
+```
+
+Okay... So you have to type out some structs, doesn't sound
+that bad.
+
+It wouldn't be too bad if it wasn't for a few problems:
+
+1. The grading infrastructure was still expecting S-expressions, and tested each pass with S-expressions, not structs.
+
+2. The compiler had a nanopass-style architecture. This meant each compiler pass had its own, uniquely typed IR. Milestone 2 had 6 IRs, and milestone 10 had 31 IRs. This meant we had a total of about 100 IRs, so consequently, 100 different type definitions.
+
+Anahita solved problems 1 and 2 with engineering, every struct had to have two associated functions: a deserializer that converted
+S-expressions from the target grammar to that struct, and another serializer that turned our struct into an S-expression. We called the two functions `sexpr->ast` (deserializer) and `ast->sexpr` (serializer). Luckily, the serializers and deserializers were not complicated at all, just recursive descent parsing on a true context-free-grammar. **She did this for 100 different grammars. Huge props to Anahita here.**
+
+Okay, great! That's all solved, let's write the compiler! And we did, until it came time to the final submission. An infamous
+autograder case, "blerner's stack thrasher" was failing.
+
+![picture of blerner's stack thrasher gradescope case](/assets/blerners.png)
+
+Doing some reverse engineering on the name, "blerner's stack thrasher" surely *thrashes* the *stack*, so it probably binds a ton of variables, forcing the register allocator to spill variables to the stack. So we wrote our own, which looked something like this:
+
+```scheme
+(let ([x1 1] [x2 2] ... [x100 100]) (+ x1 x2 x3 ... x4))
+```
+
+Let's compile it!
+
+```bash
+$ racket -t ./compiler.rkt thrasher.rkt ./thrasher.elf
+```
+
+Well, it looks to be stuck. I wonder why. Normally, I would attach a debugger to the Racket interpreter and have a  -->

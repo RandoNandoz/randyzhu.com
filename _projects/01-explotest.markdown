@@ -2,7 +2,7 @@
 title: ExploTest
 layout: single
 excerpt: ExploTest is a dynamic unit test generated aimed to create high quality unit tests from easy to conduct, but expensive integration tests.
-permalink: /project/explotest
+permalink: /projects/explotest
 collection: projects
 header:
     teaser: /assets/Testing_Pyramid.avif
@@ -37,7 +37,7 @@ by exploring techniques such as:
  - LLM-guided mock generation to improve the quality of unit tests
  - Automated unit test oracle generation.
 
-Our work can be found here, at: [github.com/kliu04/explotest](https://github.com/kliu04/explotest).
+Our work can be found here, at: [github.com/kliu04/explotest](https://github.com/kliu04/explotest). My undergraduate thesis was on 
 
 You can also find our research poster for this summer below:
 

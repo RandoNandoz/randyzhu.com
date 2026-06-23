@@ -11,14 +11,18 @@ author_profile: true
 
 ## Greetings!
 
-Hello, I am Randy Zhu, a Computer Science student at [The University of British Columbia](https://ubc.ca).
+Hello, I am Randy Zhu, a student studying computer science at the University of British Columbia.
 
-I am interested in systems software and developer tooling, particularly: compilers, hacking device drivers, debuggers, and static analysis. Another interest I would like to develop/scope out is how we can use technology to preserve and safeguard people's privacy, and how technology
-can be used to counteract censorship and mass surveillance (tools like v2ray, research like differential privacy).
+I've been captivated by computers since I can remember, but these days,
+my interests are in systems software and developer tooling, particularly:
+compilers, hacking device drivers, and OS work. You can find posts about [non-proprietary/non-embargoed projects I've worked on](/projects/) in this website!
 
-Currently, I am wrapping up my undergrad thesis on [ExploTest](/project/explotest), a Python unit test carving tool that generates unit tests from integration test runs. I am working with [Kevin Liu](https://wevie.dev/), and my supervisor, [Dr. Caroline Lemieux](https://www.carolemieux.com/).
-The projected started off was partially funded by an award given to me and Kevin from the Natural Sciences and Engineering Research Council of Canada for summer 2025.
+Currently, I am interning at Netgear as a Firmware Developer, where I am working on some custom Linux kernel drivers
+and reducing firmware memory usage replacing a WebKit-based UI with a new UI written in C and LVGL.
 
-Before that, I worked at Teck Resources, working on a mix of front-end work (think React.js + TypeScript) and ETL work to unify and understand data across various mine sites at the company.
+During school terms, I TA'd two courses: [Introduction to Computer Systems (CPSC 213)](/cpsc213/), and
+Introduction to Software Engineering (CPSC 210). I was also awarded the Undergraduate Teaching Assistant Award by the CS department for excellence in teaching; and I have aggregated some [student testimonials from course surveys](/teaching_surveys/) across various sections. When I am back to school, I intend to TA again.
 
-You can find a copy of my resume here: [link to resume](/assets/Randy_Zhu_resume.pdf).
+My [undergraduate thesis](/assets/thesis.pdf) was about unit test generation, specifically a unit test generation tool called [ExploTest](/project/explotest). I had the privilege to be supervised with Dr. Caroline Lemieux, and worked with Kevin Liu and many others in the UBC Software Practices Lab to complete.
+
+I complete my degree in April 2028, and I'm looking for internships for summer 2027 after Netgear, hopefully in the systems/devtool space. If you are looking to hire me, you can find [my resume](/assets/Randy_Zhu_resume.pdf) and [my transcript](/assets/transcript_anon.pdf).
