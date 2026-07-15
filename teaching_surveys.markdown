@@ -52,7 +52,7 @@ title: Student Teaching Survey Data
 
 ---
 
-## 2024 Summer — CPSC 210: Software Construction
+## 2024 Summer: CPSC 210: Software Construction
 - "I think there are no significant changes needed."
 - "he has strong patient! it is really helpful of his taught. I get improvement for his help. I think he is the best TA for this lesson."
 - "good"
