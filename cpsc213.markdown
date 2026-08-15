@@ -17,3 +17,6 @@ You can find my slides for CPSC 213 2025W2 below.
 - Lab 5 --- Memory Management & Reference Counting [pdf](/cpsc213/L5.pdf){:target="_blank"}, [in class demo](https://github.com/RandoNandoz/213-l5-demos)
 - Lab 6 --- Static Control Flow [pdf](/cpsc213/L6.pdf){:target="_blank"}
 - Lab 8 --- Higher-order-functions in C [pdf](/cpsc213/L8.pdf){:target="_blank"}
+
+Some labs do not have slides, since the tutorial part was done on the whiteboard or
+live-coding on PL.

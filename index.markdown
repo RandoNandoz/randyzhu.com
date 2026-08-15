@@ -17,8 +17,7 @@ I've been captivated by computers since I can remember, but these days,
 my interests are in systems software and developer tooling, particularly:
 compilers, hacking device drivers, and OS work. You can find posts about [non-proprietary/non-embargoed projects I've worked on](/projects/) in this website!
 
-Currently, I am interning at Netgear as a Firmware Developer, where I am working on some custom Linux kernel drivers
-and reducing firmware memory usage replacing a WebKit-based UI with a new UI written in C and LVGL.
+I will (very soon!) be joining Nexthop this fall as an intern. Previously, I worked at Netgear, where I worked on a UI rework, and a Linux kernel driver for a new product release.
 
 During school terms, I TA'd two courses: [Introduction to Computer Systems (CPSC 213)](/cpsc213/), and
 Introduction to Software Engineering (CPSC 210). I was also awarded the Undergraduate Teaching Assistant Award by the CS department for excellence in teaching; and I have aggregated some [student testimonials from course surveys](/teaching_surveys/) across various sections. When I am back to school, I intend to TA again.
