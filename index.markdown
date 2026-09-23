@@ -28,6 +28,6 @@ Previously, I worked at Netgear, where I worked on a UI rework, and a Linux kern
 During school terms, I TA'd two courses: [Introduction to Computer Systems (CPSC 213)](/cpsc213/), and
 Introduction to Software Engineering (CPSC 210). I was also awarded the Undergraduate Teaching Assistant Award by the CS department for excellence in teaching; and I have aggregated some [student testimonials from course surveys](/teaching_surveys/) across various sections. When I am back to school, I intend to TA again.
 
-My [undergraduate thesis](/assets/thesis.pdf) was about unit test generation, specifically a unit test generation tool called [ExploTest](/project/explotest). I had the privilege to be supervised by Dr. Caroline Lemieux, and worked with Kevin Liu and many others in the UBC Software Practices Lab to complete.
+My [undergraduate thesis](/assets/thesis.pdf) was about unit test generation, specifically a unit test generation tool called [ExploTest](/project/explotest). I had the privilege to be supervised by Dr. Caroline Lemieux, and worked with [Kevin Liu](https://wevie.dev) and many others in the UBC Software Practices Lab to complete.
 
 I complete my degree in April 2028, and I'm looking for internships after Nexthop, hopefully in the systems/devtool/networking space.
