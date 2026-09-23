@@ -11,7 +11,7 @@ author_profile: true
 
 ## Greetings!
 
-Hello, I am Randy Zhu, a student studying computer science at the University of British Columbia. Right now, I live in Bellevue, Washington, but I am from Vancouver, BC.
+Hello, I am Randy Zhu, a student studying computer science at the University of British Columbia.
 
 I've been captivated by computers since I can remember, but these days,
 my interests are in systems software, networking, and developer tooling, particularly:
